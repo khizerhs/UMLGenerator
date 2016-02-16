@@ -1,4 +1,5 @@
 # UMLGenerator
+This is a Parser which converts Java Source Code into a  UML Diagram.
 
 To develop this project I have used the following libraries
 
